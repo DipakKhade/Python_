@@ -1,0 +1,3 @@
+Day 49
+File io in pythonThis is a with statementThis is a with statement This is a with statement
+ This is a with statement
